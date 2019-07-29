@@ -1,6 +1,6 @@
 # Basic_Bandit
 
-Implementation of common bandit algorithms for the Bernoulli setting -
+Implementation of common bandit algorithms for the stochastic Bernoulli setting -
 
 1. Epsilon-greedy
 2. UCB1
